@@ -7,7 +7,7 @@ title:            OpsBug
 tagline:          'Strong Opinions, Weakly Held'
 description:      'Tech Renissance'
 url:              http://claraleung.github.io/
-baseurl:          
+baseurl:          ''
 
 author:
   name:           'Vikram Dhillon'
